@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24ba2d07-312a-4df4-8366-fb0a86d93dd8" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/../SSM/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSM/ssm/src/main/java/com/atguigu/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSM/ssm/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSM/ssm/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSM/ssm/src/main/web/WEB-INF/SpringMVC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSM/ssm/src/main/web/WEB-INF/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithm-visualizer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/artifacts/jsp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/artifacts/oa2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/artifacts/oa_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/artifacts/servlet01_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/artifacts/servlet02_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/artifacts/servlet03_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/artifacts/servlet06_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/jsp/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa2_war_exploded/WEB-INF/classes/com/bjpowernode/oa/utils/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa2_war_exploded/WEB-INF/classes/com/bjpowernode/oa/web/action/DeptServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa2_war_exploded/WEB-INF/classes/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa2_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa2_war_exploded/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa2_war_exploded/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa2_war_exploded/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa2_war_exploded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/WEB-INF/classes/com/bjpowernode/oa/utils/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/WEB-INF/classes/com/bjpowernode/oa/web/action/DeptAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/WEB-INF/classes/com/bjpowernode/oa/web/action/DeptDeleteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/WEB-INF/classes/com/bjpowernode/oa/web/action/DeptDetailServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/WEB-INF/classes/com/bjpowernode/oa/web/action/DeptEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/WEB-INF/classes/com/bjpowernode/oa/web/action/DeptListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/WEB-INF/classes/com/bjpowernode/oa/web/action/DeptModifyServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/WEB-INF/classes/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/oa_war_exploded/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet01_war_exploded/WEB-INF/classes/com/bjpowernode/javaweb/servlet/StudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet01_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet01_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet01_war_exploded/student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet02_war_exploded/WEB-INF/classes/com/bjpowernode/javaweb/servlet/GenericServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet02_war_exploded/WEB-INF/classes/com/bjpowernode/javaweb/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet02_war_exploded/WEB-INF/classes/com/bjpowernode/javaweb/servlet/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet02_war_exploded/WEB-INF/classes/com/bjpowernode/javaweb/servlet/VipServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet02_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet03_war_exploded/WEB-INF/classes/com/bjpowernode/javaweb/servlet/ConfigTestServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet03_war_exploded/WEB-INF/classes/com/bjpowernode/javaweb/servlet/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet03_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet06_war_exploded/WEB-INF/classes/com/bjnodepower/javaweb/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet06_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/artifacts/servlet06_war_exploded/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa/com/bjpowernode/oa/utils/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa/com/bjpowernode/oa/web/action/DeptAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa/com/bjpowernode/oa/web/action/DeptDeleteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa/com/bjpowernode/oa/web/action/DeptDetailServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa/com/bjpowernode/oa/web/action/DeptEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa/com/bjpowernode/oa/web/action/DeptListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa/com/bjpowernode/oa/web/action/DeptModifyServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa2/com/bjpowernode/oa/utils/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa2/com/bjpowernode/oa/web/action/DeptServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/oa2/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/servlet01/com/bjpowernode/javaweb/servlet/StudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/servlet02/com/bjpowernode/javaweb/servlet/GenericServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/servlet02/com/bjpowernode/javaweb/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/servlet02/com/bjpowernode/javaweb/servlet/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/servlet02/com/bjpowernode/javaweb/servlet/VipServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/servlet03/com/bjpowernode/javaweb/servlet/ConfigTestServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/servlet03/com/bjpowernode/javaweb/servlet/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/out/production/servlet06/com/bjnodepower/javaweb/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/servlet01/web/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/java/org/example/mapper/DeptMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/java/org/example/mapper/EmpMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/java/org/example/pojo/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/java/org/example/pojo/DeptExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/java/org/example/pojo/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/java/org/example/pojo/EmpExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/java/org/example/utils/SqlSessionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/resources/org/example/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/src/main/resources/org/example/mapper/EmpMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_parameter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/057dd338-e487-4bbc-a74c-0384c44a9ca3.jpgd0b4d90b-c76c-4c85-9223-46236307bb3f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/057dd338-e487-4bbc-a74c-0384c44a9ca3.jpgd172f66f-d1d1-4e6c-82ed-ad113754cd34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0a3b3288-3446-4420-bbff-f263d0c02d8e.jpg2141c183-dc76-48fa-8eb5-a0ad145b53de.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0a3b3288-3446-4420-bbff-f263d0c02d8e.jpg764d8c4c-ebe7-4fbf-84f3-12ad82f48111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3fabb83a-1c09-4fd9-892b-4ef7457daafa.jpeg23547f37-9939-4849-9856-3320dd3487df.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/740c79ce-af29-41b8-b78d-5f49c96e38c4.jpg01cc1695-2581-47ef-ad33-9a351054597b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8dcfda14-5712-4d28-82f7-ae905b3c2308.jpg0f7e455d-3d65-4ce8-a360-7e73ecf04cfd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/api/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/api/combo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/api/food.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/api/member.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/api/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/404-images/404-cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/404-images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/btn_back@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/btn_clean@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/btn_close@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/icon_index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/icon_upload@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/jine_m-2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/renshu@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/icons/xiangmujine@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/img_brand01@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/img_denglu_bj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/login/login-l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/login/login-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/login/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/images/noImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/js/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/js/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/page/category/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/page/combo/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/page/combo/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/page/demo/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/page/food/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/page/food/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/page/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/page/member/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/page/member/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/page/order/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/plugins/axios/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/plugins/element-ui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/plugins/vue/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/icon/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/backend/styles/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/ReggieApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/common/BaseContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/common/CustomerException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/common/GloableExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/common/JacksonObjectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/common/MyMetaObjectHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/common/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/config/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/config/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/AddressBookController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/CategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/CommonController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/DishController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/EmployeeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/OrderDetailController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/OrdersController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/SetmealController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/ShoppingCartController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/dto/DishDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/dto/SetmealDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/dto/UserDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/AddressBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/Dish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/DishFlavor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/OrderDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/Orders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/Setmeal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/SetmealDish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/ShoppingCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/filter/LoginCheckFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/AddressBookMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/CategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/DishFlavorMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/DishMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/EmployeeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/OrderDetailMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/OrdersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/SetmealDishMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/SetmealMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/ShoppingCartMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/AddressBookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/CategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/DishFlavorService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/DishService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/OrderDetailService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/OrdersService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/SetmealDishService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/SetmealService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/ShoppingCartService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/AddressBookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/DishFlavorServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/DishServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/EmployeeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/OrderDetailServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/OrdersServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/SetmealDishServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/SetmealServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/ShoppingCartServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/utils/SMSUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/reggie/utils/ValidateCodeUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/api/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/api/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/api/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/cartData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/fonts/DIN-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/fonts/DIN-Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/fonts/PingFangSC-Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/cart_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/checked_false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/checked_true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/demo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/demo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/demo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/demo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/favico.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/headPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/locations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/mainBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/noImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/no_order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/no_wifi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/orders.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/subtract.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/images/women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/js/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/js/vant.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/page/add-order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/page/address-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/page/address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/page/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/page/no-wify.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/page/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/page/pay-success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/page/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/add-order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/address-edit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/address.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/no-wify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/pay-success.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/front/styles/vant.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_helloworld/src/main/java/org/example/pojo/Helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_helloworld/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_helloworld/src/test/java/HelloWorldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_helloworld/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_helloworld/target/classes/org/example/pojo/Helloworld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_helloworld/target/test-classes/HelloWorldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/java/com/atguigu/controller/TestRequestMappingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/.idea/artifacts/spring_mvc_demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/.idea/artifacts/spring_mvc_helloworld_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/out/artifacts/spring_mvc_helloworld_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/out/artifacts/spring_mvc_helloworld_war_exploded/WEB-INF/classes/com/atguigu/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/out/artifacts/spring_mvc_helloworld_war_exploded/WEB-INF/springMVC-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/out/artifacts/spring_mvc_helloworld_war_exploded/WEB-INF/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/out/artifacts/spring_mvc_helloworld_war_exploded/WEB-INF/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/out/artifacts/spring_mvc_helloworld_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/src/main/java/com/atguigu/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/target/classes/com/atguigu/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/web/WEB-INF/springMVC-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/web/WEB-INF/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/web/WEB-INF/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_helloworld/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_alibaba_druid_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_assertj_assertj_core_3_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_mockito_mockito_core_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_mybatis_mybatis_3_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_mybatis_mybatis_3_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_mybatis_mybatis_spring_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_aop_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_aop_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_beans_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_beans_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_context_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_context_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_core_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_core_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_expression_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_expression_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_test_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_test_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_tx_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_tx_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_web_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_web_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_base_configuration/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_base_configuration/src/main/java/com/example/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_base_configuration/src/main/java/com/example/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_base_configuration/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_base_configuration/src/test/java/com/example/SpringQuickstartApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_base_configuration/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_mybatis/src/main/java/com/example/spring_mybatis/SpringMybatisApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_mybatis/src/main/java/com/example/spring_mybatis/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_mybatis/src/main/java/com/example/spring_mybatis/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_mybatis/src/test/java/com/example/spring_mybatis/SpringMybatisApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_quickstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_quickstart/src/main/java/com/example/SpringQuickstartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_quickstart/src/main/java/com/example/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_quickstart/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_quickstart/src/test/java/com/example/SpringQuickstartApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_quickstart/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_quickstart/target/classes/com/example/SpringQuickstartApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_quickstart/target/classes/com/example/controller/BookController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/spring_quickstart/target/test-classes/com/example/SpringQuickstartApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/SpringbootSsmpApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/config/MPConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/controller/BookController1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/controller/utils/ProjectExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/controller/utils/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/service/IBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/java/com/itheima/service/impl/IBookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/js/axios-0.18.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/js/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/pages/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/elementui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/elementui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/elementui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/main/resources/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/test/java/com/itheima/dao/BookDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot_ssmp/src/test/java/com/itheima/service/BookServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/SQL文件/ruiji.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/TakeOutApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/common/CustomerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/common/GloableExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/common/JacksonObjectMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/common/MyMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/common/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/AddressBookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/CommonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/DishController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/DishFlavorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/OrderDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/OrdersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/SetmealController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/SetmealDishController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/ShoppingCartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/dto/DishDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/dto/OrdersDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/dto/SetmealDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/dto/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/filter/LoginCheckFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/AddressBookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/DishFlavorMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/DishMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/EmployeeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/OrderDetailMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/OrdersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/SetmealDishMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/SetmealMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/ShoppingCartMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/AddressBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/DishFlavor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/OrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/Setmeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/SetmealDish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/AddressBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/DishFlavorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/DishService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/OrderDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/OrdersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/SetmealDishService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/SetmealService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/ShoppingCartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/AddressBookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/DishFlavorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/DishServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/OrderDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/OrdersServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/SetmealDishServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/SetmealServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/ShoppingCartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/utils/BaseContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/utils/CodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/utils/MD5Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/utils/SMSUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/java/com/cc/utils/ValidateCodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/api/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/api/combo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/api/food.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/api/member.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/api/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/404-images/404-cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/404-images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/icons/btn_back@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/icons/btn_clean@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/icons/btn_close@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/icons/icon_index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/icons/icon_upload@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/icons/jine_m-2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/icons/renshu@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/icons/xiangmujine@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/img_brand01@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/img_denglu_bj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/login/login-l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/login/login-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/login/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/images/noImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/js/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/js/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/category/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/combo/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/combo/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/common/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/demo/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/food/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/food/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/member/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/member/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/page/order/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/plugins/axios/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/plugins/element-ui/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/plugins/element-ui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/plugins/element-ui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/plugins/element-ui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/plugins/vue/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/icon/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/icon/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/icon/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/icon/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/icon/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/icon/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/icon/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/icon/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/backend/styles/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/api/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/api/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/api/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/cartData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/fonts/DIN-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/fonts/DIN-Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/fonts/PingFangSC-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/fonts/PingFangSC-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/fonts/PingFangSC-Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/cart_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/checked_false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/checked_true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/demo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/demo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/demo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/demo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/favico.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/headPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/locations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/mainBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/noImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/no_order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/no_wifi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/orders.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/subtract.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/images/women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/js/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/js/vant.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/page/add-order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/page/address-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/page/address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/page/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/page/no-wify.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/page/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/page/pay-success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/page/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/add-order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/address-edit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/address.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/no-wify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/pay-success.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/front/styles/vant.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/AddressBookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/DishFlavorMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/DishMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/EmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/OrderDetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/OrdersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/SetmealDishMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/SetmealMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/ShoppingCartMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/api/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/api/combo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/api/food.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/api/member.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/api/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/404-images/404-cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/404-images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/icons/btn_back@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/icons/btn_clean@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/icons/btn_close@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/icons/icon_index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/icons/icon_upload@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/icons/jine_m-2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/icons/renshu@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/icons/xiangmujine@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/img_brand01@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/img_denglu_bj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/login/login-l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/login/login-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/login/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/images/noImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/js/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/js/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/category/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/combo/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/combo/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/common/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/demo/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/food/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/food/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/member/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/member/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/page/order/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/plugins/axios/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/plugins/element-ui/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/plugins/element-ui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/plugins/element-ui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/plugins/element-ui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/plugins/vue/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/icon/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/icon/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/icon/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/icon/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/icon/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/icon/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/icon/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/icon/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/backend/styles/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/TakeOutApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/common/CustomerException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/common/GloableExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/common/JacksonObjectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/common/MyMetaObjectHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/common/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/config/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/config/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/config/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/AddressBookController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/CategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/CommonController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/DishController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/DishFlavorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/EmployeeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/OrderDetailController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/OrdersController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/SetmealController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/SetmealDishController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/ShoppingCartController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/dto/DishDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/dto/OrdersDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/dto/SetmealDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/dto/UserDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/filter/LoginCheckFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/AddressBookMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/CategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/DishFlavorMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/DishMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/EmployeeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/OrderDetailMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/OrdersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/SetmealDishMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/SetmealMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/ShoppingCartMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/AddressBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/Dish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/DishFlavor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/OrderDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/Orders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/Setmeal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/SetmealDish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/ShoppingCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/AddressBookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/CategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/DishFlavorService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/DishService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/OrderDetailService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/OrdersService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/SetmealDishService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/SetmealService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/ShoppingCartService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/AddressBookServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/DishFlavorServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/DishServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/EmployeeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/OrderDetailServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/OrdersServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/SetmealDishServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/SetmealServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/ShoppingCartServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/utils/BaseContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/utils/MD5Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/utils/SMSUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/com/cc/utils/ValidateCodeUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/api/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/api/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/api/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/cartData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/fonts/DIN-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/fonts/DIN-Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/fonts/PingFangSC-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/fonts/PingFangSC-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/fonts/PingFangSC-Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/cart_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/checked_false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/checked_true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/demo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/demo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/demo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/demo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/favico.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/headPage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/locations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/mainBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/noImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/no_order.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/no_wifi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/orders.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/subtract.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/images/women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/js/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/js/vant.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/page/add-order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/page/address-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/page/address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/page/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/page/no-wify.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/page/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/page/pay-success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/page/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/add-order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/address-edit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/address.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/no-wify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/pay-success.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/front/styles/vant.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/AddressBookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/DishFlavorMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/DishMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/EmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/OrderDetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/OrdersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/SetmealDishMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/SetmealMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/ShoppingCartMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../takeout-system-master/瑞吉外卖笔记.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Java/apache-maven-3.9.0" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.9.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MiJuHZi3mHtHF6x6MPVdEbqNoY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/JetBrains/IdeaProjects/reggie_take_out/src/main/java/com/itheima/reggie/controller",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "31ee954601a2ac7573b0782bc2eec0b0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JetBrains\IdeaProjects\reggie_take_out\src\main\java\com\itheima\reggie\controller" />
+      <recent name="D:\JetBrains\IdeaProjects\reggie_take_out\src\main\java\com\itheima\reggie\service\impl" />
+      <recent name="D:\JetBrains\IdeaProjects\reggie_take_out\src\main\java\com\itheima\reggie\service" />
+      <recent name="D:\JetBrains\IdeaProjects\reggie_take_out\src\main\java\com\itheima\reggie\mapper" />
+      <recent name="D:\JetBrains\IdeaProjects\reggie_take_out\src\main\java\com\itheima\reggie\entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.reggie.controller" />
+      <recent name="com.itheima.reggie.service.impl" />
+      <recent name="com.itheima.reggie.service" />
+      <recent name="com.itheima.reggie.mapper" />
+      <recent name="com.itheima.reggie.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ba2d07-312a-4df4-8366-fb0a86d93dd8" name="Changes" comment="" />
+      <created>1678244690655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678244690655</updated>
+      <workItem from="1678244692039" duration="1634000" />
+      <workItem from="1678246343049" duration="100602000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1678606154669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678606154669</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

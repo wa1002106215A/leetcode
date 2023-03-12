@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration PUBLIC "-//LOGGER" "http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd">
+<log4j:configuration>
+    <!--
+         appender指定输出目的地，如控制台或文件；
+         appender的名称任意
+    -->
+    <appender name="stdout" class="org.apache.log4j.ConsoleAppender">
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern"
+                   value="%d{ABSOLUTE} %5p %c{1}:%L - %m%n" />
+        </layout>
+    </appender>
+
+    <!--
+         category（类别）为'org.springframework'的logger只记录level为“info”或更高级别的消息；
+         即：如果您使用的类名获取logger（如Logger.getLogger(AClass.class)）
+         而且AClass是org.springframework包的一部分，则它属于这一category
+    -->
+    <logger name="org.springframework">
+        <level value="info"/>
+    </logger>
+
+    <!--
+         spring的所有日志消息都被设置为“info”等级，但对于类PropertyEditorRegistrySupport，
+         我们想将其日志消息设置为“debug”等级
+    -->
+    <logger name="org.springframework.beans.PropertyEditorRegistrySupport">
+        <level value="debug"/>
+    </logger>
+
+    <logger name="org.acegisecurity">
+        <level value="info"/>
+    </logger>
+
+
+    <root>
+        <!--
+            所有日志消息的级别为“debug”或更高的将被记录，除非另有定义
+            所有日志消息将都记录到appender “stdout”中，除非另有定义
+        -->
+        <level value="debug" />
+        <appender-ref ref="stdout" />
+    </root>
+</log4j:configuration>
